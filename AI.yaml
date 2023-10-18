@@ -1,5 +1,6 @@
 payload:
   - DOMAIN-KEYWORD,openai
+  - DOMAIN-KEYWORD,bing
   - DOMAIN-SUFFIX,auth0.com
   - DOMAIN-SUFFIX,challenges.cloudflare.com
   - DOMAIN-SUFFIX,client-api.arkoselabs.com
