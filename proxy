@@ -1,0 +1,9 @@
+payload:
+  - DOMAIN-SUFFIX,bazqux.com
+  - DOMAIN-SUFFIX,mikanani.me
+  - DOMAIN-SUFFIX,sehuatang.net
+  - DOMAIN-SUFFIX,nfcloud.net
+  - DOMAIN-SUFFIX,tuta.com
+  - DOMAIN-SUFFIX,tutanota.com
+  - DOMAIN-SUFFIX,mozilla.org
+  - DOMAIN-SUFFIX,openwrt.org
