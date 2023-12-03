@@ -1,10 +1,10 @@
 payload:
-  - DOMAIN-SUFFIX,bazqux.com
-  - DOMAIN-SUFFIX,mikanani.me
-  - DOMAIN-SUFFIX,sehuatang.net
-  - DOMAIN-SUFFIX,nfcloud.net
-  - DOMAIN-SUFFIX,tuta.com
-  - DOMAIN-SUFFIX,tutanota.com
-  - DOMAIN-SUFFIX,mozilla.org
-  - DOMAIN-SUFFIX,openwrt.org
-  - DOMAIN-SUFFIX,qbittorrent.org
+  - '+.bazqux.com'
+  - '+.mikanani.me'
+  - '+.sehuatang.net'
+  - '+.nfcloud.net'
+  - '+.tuta.com'
+  - '+.tutanota.com'
+  - '+.mozilla.org'
+  - '+.openwrt.org'
+  - '+.qbittorrent.org'
