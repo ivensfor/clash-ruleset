@@ -7,3 +7,4 @@ payload:
   - DOMAIN-SUFFIX,tutanota.com
   - DOMAIN-SUFFIX,mozilla.org
   - DOMAIN-SUFFIX,openwrt.org
+  - DOMAIN-SUFFIX,qbittorrent.org
