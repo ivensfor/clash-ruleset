@@ -1,7 +1,7 @@
-DOMAIN,fake-stream.livednow.com
-DOMAIN,hls.livednow.com
-DOMAIN,hoytv-live-stream.hoy.tv
-DOMAIN,litvpc-hichannel.cdn.hinet.net
-DOMAIN,livednow.com
-DOMAIN,macaulotustv.livednow.com
-DOMAIN-SUFFIX,dtmb-s2.cc
+HOST,fake-stream.livednow.com,Livednow
+HOST,hls.livednow.com,Livednow
+HOST,hoytv-live-stream.hoy.tv,Livednow
+HOST,litvpc-hichannel.cdn.hinet.net,Livednow
+HOST,livednow.com,Livednow
+HOST,macaulotustv.livednow.com,Livednow
+HOST-SUFFIX,dtmb-s2.cc,Livednow
