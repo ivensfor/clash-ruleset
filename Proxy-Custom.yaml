@@ -17,3 +17,6 @@ payload:
   - '+.suruga-ya.com'
   - '+.wallhaven.cc'
   - '+.unsplash.com'
+  - '+.pocketcasts.com'
+  - '+.cloudfront.net'
+  - '+.anchor.fm'
